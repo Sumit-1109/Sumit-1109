@@ -1,20 +1,15 @@
-![logo](https://github.com/Sumit-1109/Sumit-1109/blob/main/github-header-image%20(1).png)
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=4891&pause=1000&color=000000&vCenter=true&random=false&width=600&height=81&lines=Hey+there%2C+I'm+Sumit+Kumar!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">A passionate Full-stack Developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/Sumit-1109/Sumit-1109/blob/main/coding-image.jpg">
+<h3 align="center">A passionate Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumit-1109&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit-1109" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working in **MERN Stack**
 
-- 📫 How to reach me **sumitkumar123@gmail.com**
+- 📫 How to reach me **sumitkumar2000sep@gmail.com**
 
-- ⚡ Fun fact **I love coding and problem-solving!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
