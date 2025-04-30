@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumit-1109&show_icons=true&locale=en" alt="Sumit-1109" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-1109&" alt="Sumit-1109" /></p>
